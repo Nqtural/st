@@ -76,6 +76,9 @@ static int bellvolume = 0;
 /* default TERM value */
 char *termname = "st";
 
+/* bg opacity */
+float alpha = 0.8;
+
 /*
  * spaces per tab
  *
